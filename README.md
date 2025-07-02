@@ -19,7 +19,7 @@ Once GitHub Pages is enabled, your site will be available at:
 ## 📝 How to Use
 
 1. **Open the App:**  
-   Open [[visualization.html](cci:7://file:///Users/sammieomranian/Downloads/Data%20map/CSI%20Data%20Map%202/visualization.html:0:0-0:0)](./visualization.html) in your browser, or visit the GitHub Pages link above.
+   Open https://sammyjoon.github.io/manufacturing-data-map/ in your browser, or visit the GitHub Pages link above.
 
 2. **Add Machines/Processes:**  
    Use the dropdown to add new nodes to your map.
