@@ -14,7 +14,7 @@ This project is an interactive manufacturing data map visualization built with D
 ## 🌐 Live Demo
 
 Once GitHub Pages is enabled, your site will be available at:  
-`[https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://github.com/Sammyjoon/manufacturing-data-map)`
+`(https://github.com/Sammyjoon/manufacturing-data-map)`
 
 ## 📝 How to Use
 
