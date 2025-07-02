@@ -15,7 +15,7 @@ This project is an interactive manufacturing data map visualization built with D
 ## 📝 How to Use
 
 1. **Open the App:**  
-   Open file:///Users/sammieomranian/Downloads/Data%20map/CSI%20Data%20Map%202/visualization.html in your browser, or visit the GitHub Pages link above.
+   Open file: https://sammyjoon.github.io/manufacturing-data-map/ in your browser, or visit the GitHub Pages link above.
 
 2. **Add Machines/Processes:**  
    Use the dropdown to add new nodes to your map.
