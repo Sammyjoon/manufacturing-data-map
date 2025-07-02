@@ -36,19 +36,4 @@ Once GitHub Pages is enabled, your site will be available at:
 6. **Save/Load:**  
    Use "Save Graph" to download your map as JSON. Use the file input to load a saved map.
 
-## 📂 Project Structure
-
-
-## 📢 Notes
-
-- This app runs fully in your browser—no server required.
-- For best results, use Chrome, Firefox, or Edge.
-- To share with others, deploy to GitHub Pages (see below).
-
-## 🌍 Deploying to GitHub Pages
-
-1. Upload all project files to a public GitHub repo.
-2. Go to **Settings > Pages**.
-3. Set source to `main` branch and `/ (root)`.
-4. Your app will be live at `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`.
 
