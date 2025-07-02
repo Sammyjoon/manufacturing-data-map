@@ -14,7 +14,7 @@ This project is an interactive manufacturing data map visualization built with D
 ## 🌐 Live Demo
 
 Once GitHub Pages is enabled, your site will be available at:  
-`[(https://github.com/Sammyjoon/manufacturing-data-map)](https://github.com/Sammyjoon/manufacturing-data-map/tree/main)`
+`file:///Users/sammieomranian/Downloads/Data%20map/CSI%20Data%20Map%202/visualization.html`
 
 ## 📝 How to Use
 
