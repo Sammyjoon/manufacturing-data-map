@@ -1,7 +1,6 @@
-# manufacturing-data-map
 # Manufacturer Data Map (D3.js Interactive)
 
-This project is an interactive manufacturing data map visualization built with D3.js. It helps users (especially manufacturing SMEs) map out machines/processes and their data connections, assign importance, and calculate a data maturity score.
+This project is an interactive manufacturing data map visualization built with D3.js. It helps users—especially manufacturing SMEs—map out machines/processes and their data connections, assign importance, and calculate a data maturity score.
 
 ## 🚀 Features
 
@@ -15,7 +14,7 @@ This project is an interactive manufacturing data map visualization built with D
 ## 🌐 Live Demo
 
 Once GitHub Pages is enabled, your site will be available at:  
-`https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`
+`[https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://github.com/Sammyjoon/manufacturing-data-map)`
 
 ## 📝 How to Use
 
@@ -40,7 +39,6 @@ Once GitHub Pages is enabled, your site will be available at:
 ## 📂 Project Structure
 
 
-
 ## 📢 Notes
 
 - This app runs fully in your browser—no server required.
@@ -53,11 +51,4 @@ Once GitHub Pages is enabled, your site will be available at:
 2. Go to **Settings > Pages**.
 3. Set source to `main` branch and `/ (root)`.
 4. Your app will be live at `https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/`.
-
-## 🤝 Contributing
-
-PRs and suggestions are welcome!  
-For questions, contact [samerah.emranian@gmail.com](mailto:samerah.emranian@gmail.com).
-
----
 
